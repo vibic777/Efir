@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Efir</string>
+    <string name="accessibility_service_label">Efir — input control</string>
+    <string name="accessibility_service_description">Lets the paired device control this phone: taps, swipes and text input. Used only by a trusted paired device on the local network.</string>
+
+    <string name="notification_listener_label">Efir — notification access</string>
+
+    <string name="capture_notification_channel">Connection and screen sharing</string>
+    <string name="capture_notification_title">Efir is running</string>
+    <string name="capture_notification_text">The phone is reachable from paired devices on the local network</string>
+
+    <string name="ask_channel">Requests from the other device</string>
+    <string name="ask_screen_title">Share the screen?</string>
+    <string name="ask_screen_text">The other device asks to see this phone\'s screen. Tap to answer.</string>
+</resources>

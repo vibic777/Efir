@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Эфир</string>
+    <string name="accessibility_service_label">Эфир — управление вводом</string>
+    <string name="accessibility_service_description">Позволяет сопряжённому устройству управлять телефоном: нажатия, жесты и ввод текста. Используется только доверенным сопряжённым устройством в локальной сети.</string>
+
+    <string name="notification_listener_label">Эфир — доступ к уведомлениям</string>
+
+    <string name="capture_notification_channel">Соединение и показ экрана</string>
+    <string name="capture_notification_title">Эфир работает</string>
+    <string name="capture_notification_text">Телефон доступен сопряжённым устройствам в локальной сети</string>
+
+    <string name="ask_channel">Запросы другого устройства</string>
+    <string name="ask_screen_title">Показать экран?</string>
+    <string name="ask_screen_text">Другое устройство просит показать экран телефона. Нажмите, чтобы ответить.</string>
+</resources>
